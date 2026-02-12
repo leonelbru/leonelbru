@@ -5,7 +5,7 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VleTNiMjR3ODgzaDBtYXF2dnZ6NHIyNTNyYXZnMWV6aHA5ajdmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1PZ9h2SFHPTPOnv7UA/giphy.gif" width="40"/> Sobre mim
 - 👩‍💻 Estudante de **Sistemas de Informação**  
-- 🌸 Dev iniciante no **Front-end** (HTML, CSS, JS)  
+- 🌸 Dev iniciante no **Front-end** (HTML, CSS, JS, React)  
 - 🎨 Experiência com **design** (Canva, Photoshop, Figma)  
 - 🚀 Participando de **bootcamps** e estudos paralelos para acelerar minha evolução  
 - 👾 Apaixonada por **jogos num geral (especialmente RPGs), livros e animes**
