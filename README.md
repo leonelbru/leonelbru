@@ -33,8 +33,8 @@
 ---
 
 ## 🎮 Estatísticas do Jogo (GitHub)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonelbru&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonelbru&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonelbru&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonelbru&theme=tokyonight)
 
 ---
 
