@@ -4,7 +4,7 @@
 
 <br>
 
-## ✦ Sobre mim
+## ✨ Mais alguns detalhes dessa expedicionária
 
 - 🎓 Estudante de **Sistemas de Informação**
 - 💻 Minha primeira experiência com programação foi pelo **front-end**
@@ -12,11 +12,10 @@
 - 🧠 Gosto de aprender na prática: testar, errar, investigar e entender o que aconteceu
 - 🎨 Tenho experiência com **Figma, Canva e Photoshop**
 - 🎮 Jogos, RPGs, livros, animes, séries ou músicas geralmente acabam virando inspiração para os projetos que crio
-- 🚀 Mantendo os estudos do front-end e do back-end atualizado, com novos projetos para trazer ao GitHub
-
+- 🚀 Mantendo os estudos de front-end e back-end atualizados, sempre com novos projetos para trazer ao GitHub
 <br>
 
-## ⚔️ Skills de Jogadora
+## 🎯 Skills de expedicionária
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-651E25?style=for-the-badge&logo=html5&logoColor=D7C2A1" />
@@ -34,9 +33,9 @@
 
 <br>
 
-## 🕯️ Próximas Skills — Level Up
+## 🕯️Skills em evolução — Level Up
 
-Atualmente estudando e construindo minha base em:
+Atualmente estudando e fortalecendo minha base em:
 
 <p>
   <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=B48A56" />
@@ -47,9 +46,9 @@ Atualmente estudando e construindo minha base em:
 
 <br>
 
-## 🗺️ Projetos em andamento
+## 🗺️ Projetos em andamento *(ou coletando pictos pra evoluir)*
 
-### 🎲 Criador de Fichas de RPG - Site
+### 🎲 Criador de Fichas de RPG — Site
 Meu projeto mais ambicioso até agora.
 
 Estou desenvolvendo uma aplicação para jogadores de RPG criarem e organizarem suas próprias fichas.  
@@ -81,7 +80,7 @@ A ideia original foi criada pela minha noiva, desenvolvedora sênior de software
 
 Comecei estudando desenvolvimento pelo **front-end**, principalmente HTML, CSS e JavaScript.
 
-Quando decidi conhecer o back-end, a mudança foi bem maior do que eu imaginava. Java trouxe uma forma diferente de pensar sobre código, estrutura e resolução de problemas.
+Quando decidi sair um pouco do front e conhecer o back-end, a mudança foi bem maior do que eu imaginava. Com Java comecei a enxergar código, estrutura e até os erros de uma forma completamente diferente.
 
 Foi também quando comecei a perceber que aprendo muito melhor criando coisas do que apenas consumindo teoria.
 
@@ -91,7 +90,7 @@ Hoje, meus projetos acabam sendo uma mistura das duas coisas que mais funcionam 
 
 <br>
 
-## 📊 Estatísticas da Expedição
+## 💫 Estatísticas da Expedição
 
 <div align="center">
 
@@ -109,14 +108,13 @@ Hoje, meus projetos acabam sendo uma mistura das duas coisas que mais funcionam 
 
 <br>
 
-## 🤝 Contatos Multiplayer
-
+## ⚔ Contatos para duelos *(ou para conversar)*
 <p>
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/leonelbruna/">
     <img src="https://img.shields.io/badge/LinkedIn-651E25?style=for-the-badge&logo=linkedin&logoColor=D7C2A1" />
   </a>
 
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:leonelxxb@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-651E25?style=for-the-badge&logo=gmail&logoColor=D7C2A1" />
   </a>
 </p>
@@ -127,8 +125,6 @@ Hoje, meus projetos acabam sendo uma mistura das duas coisas que mais funcionam 
 
 <div align="center">
 
-### ✦ Extra Life
-
-Sempre em busca de evoluir: **aprendendo novas skills, enfrentando bugs e me divertindo no processo.**
+### ✦ *Para aqueles que vieram depois... Quando um código cai, a expedição continua.*
 
 </div>
