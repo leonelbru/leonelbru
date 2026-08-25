@@ -90,6 +90,7 @@ Hoje, meus projetos acabam sendo uma mistura das duas coisas que mais funcionam 
 
 <br>
 
+<!--
 ## 💫 Estatísticas da Expedição
 
 <div align="center">
@@ -107,6 +108,7 @@ Hoje, meus projetos acabam sendo uma mistura das duas coisas que mais funcionam 
 </div>
 
 <br>
+-->
 
 ## ⚔ Contatos para duelos *(ou para conversar)*
 <p>
