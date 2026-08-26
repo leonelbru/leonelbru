@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/banner-pessoal-canva.png.png" width="100%" alt="Banner Bruna Pessoal - Clair Obscur" />
-</div>
+
 
 <br>
 
