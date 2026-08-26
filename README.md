@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/banner-pessoal-canva-atualizado.png" alt="Banner pessoal" width="95%">
+</p>
 
 <br>
 
